@@ -34,7 +34,7 @@ Below are examples the simulation in action (different scenario from the paper):
 
 ![](./imgs/map2.gif)
 
-The algorithm is the same as in the paper, but applied to a different map with new obstacles.
+The algorithm is the same as in the paper, but applied to different maps with new obstacles.
 
 ## License
 This work is licensed under the MIT license and is provided for academic purpose. See [LICENSE](LICENSE) for details.
@@ -43,6 +43,7 @@ This work is licensed under the MIT license and is provided for academic purpose
 If you use this code in your research, please cite:  
 [Your Name], "Title of Paper," Journal of Robotics and Mechatronics, Year.  
 [Doi:](https://doi.org/xxxxxx)
+
 
 
 
