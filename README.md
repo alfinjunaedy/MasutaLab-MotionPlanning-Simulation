@@ -31,12 +31,14 @@ Below are examples the simulation in action (different scenario from the paper):
 (Algorithm same as in the paper, but with a different map and obstacles.)
 
 ## License
-This work is licensed under the MIT license and is provided for academic purpose. See LICENSE for details.
+This work is licensed under the MIT license and is provided for academic purpose. See [LICENSE](LICENSE) for details.
 
 ## Citation
 If you use this code in your research, please cite:
+
 [Your Name], "Title of Paper," Journal of ABC, Year.
 [Doi:](https://doi.org/xxxxxx)
+
 
 
 
