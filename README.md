@@ -14,16 +14,14 @@ The algorithm is the same as the one described in my research paper, but the map
 - `wallnodes.mat`, `wallnodes2.mat`, `obsnodes.mat`, `obsnodes2.mat`  
   Data files containing map and obstacle nodes for different simulation setups.
 
-**How to Run the Simulation**
-
+## How to Run the Simulation
 1. Clone or download this repository, then extract the files.
 2. Open MATLAB and navigate to the repository folder.
 3. Open `motionplanning.m`.
 4. Run the script (press **F5** or click the *Run* button in MATLAB).
 5. The simulation window will launch and begin running automatically.
 
-**Demo**
-
+## Demo
 Below are examples the simulation in action (different scenario from the paper):
 
 ![](./imgs/map1.gif)
@@ -32,16 +30,14 @@ Below are examples the simulation in action (different scenario from the paper):
 
 (Algorithm same as in the paper, but with a different map and obstacles.)
 
-**License**
-
+## License
 This work is licensed under the MIT license and is provided for academic purpose. See LICENSE for details.
 
-**Citation**
-
+## Citation
 If you use this code in your research, please cite:
 [Your Name], "Title of Paper," Journal of ABC, Year.
+[Doi:](https://doi.org/xxxxxx)
 
-Doi: (https://doi.org/xxxxxx)
 
 
 
