@@ -23,9 +23,13 @@ The algorithm is the same as the one described in my research paper, but the map
 
 ## Demo
 Below are examples the simulation in action (different scenario from the paper):
-
+<p align="center">
+  Map 1
+</p>
 ![](./imgs/map1.gif)
-
+<p align="center">
+  Map 2
+</p>
 ![](./imgs/map2.gif)
 
 (Algorithm same as in the paper, but with a different map and obstacles.)
@@ -37,6 +41,7 @@ This work is licensed under the MIT license and is provided for academic purpose
 If you use this code in your research, please cite:  
 [Your Name], "Title of Paper," Journal of ABC, Year.  
 [Doi:](https://doi.org/xxxxxx)
+
 
 
 
