@@ -3,7 +3,7 @@ This repository contains a MATLAB simulation for motion planning that integrates
 The algorithm is the same as the one described in my research paper, but the map, obstacles, and simulation scenario here are different to avoid duplication of the paper's figures and results.
 
 ## Features and Files
-- `motionplanning.m`
+- `motionplanning.m`  
   Main script to run the entire simulation combining all components.
 - `obstacleavoidance.m`, `obstacleavoidance_mex.mexw64`  
   Obstacle avoidance algorithm (MATLAB and faster MEX compiled version).
@@ -34,10 +34,10 @@ Below are examples the simulation in action (different scenario from the paper):
 This work is licensed under the MIT license and is provided for academic purpose. See [LICENSE](LICENSE) for details.
 
 ## Citation
-If you use this code in your research, please cite:
-
-[Your Name], "Title of Paper," Journal of ABC, Year.
+If you use this code in your research, please cite:  
+[Your Name], "Title of Paper," Journal of ABC, Year.  
 [Doi:](https://doi.org/xxxxxx)
+
 
 
 
