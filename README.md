@@ -1,5 +1,4 @@
 ## Motion Planning Simulation
-
 This repository contains a MATLAB simulation for motion planning that integrates obstacle avoidance and path planning algorithms. The simulation is designed for research and educational purposes, and is part of my paper published in the Journal of Robotics and Mechatronics [here](https://doi.org/xxxxxx).
 The algorithm is the same as the one described in my research paper, but the map, obstacles, and simulation scenario here are different to avoid duplication of the paper's figures and results.
 
@@ -43,6 +42,7 @@ If you use this code in your research, please cite:
 [Your Name], "Title of Paper," Journal of ABC, Year.
 
 Doi: (https://doi.org/xxxxxx)
+
 
 
 
