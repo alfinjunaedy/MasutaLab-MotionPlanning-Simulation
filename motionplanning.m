@@ -1,10 +1,9 @@
 %% Motion Planning MATLAB Simulation
 % Author: Alfin Junaedy
-% Affiliation: Masuta Lab - Toyama Prefectural University
 % Date: 2025 - 08 - 08
 % Citation:
 %   If you use this code in your research, please cite:
-%   [Your citation here]
+%   [here]
 % License:
 %   This code is released under the MIT License.
 %   See LICENSE file in the repository for details.
@@ -12,7 +11,7 @@
 close all; clear all; clc;
 
 % *********** Settings ***********
-map = 2;                % Select map 1 or 2
+map = 1;                % Select map 1 or 2
 start = [0.75 0.75];    % Starting position
 goal = [9 1];           % Goal position
 % --------------------------------
@@ -114,7 +113,7 @@ while 1
                 nPath = 0;
                 goal0 = curpos0;
             end
-        end        
+        end
     end
     
     % Position update -----------------------------------------------------
