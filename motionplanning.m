@@ -3,7 +3,9 @@
 % Date: 2025 - 08 - 08
 % Citation:
 %   If you use this code in your research, please cite:
-%   [here]
+%   [A. Junaedy, H. Masuta, Y. Fuse, K. Sawai, K. Koyanagi, A. Almassri, and F. Li, 
+%   "Onboard modular control and planning for autonomous indoor UAV navigation on resource-constrained CPUs," 
+%   J. Robot. Mechatron., Vol.37, No.6, 2025.]
 % License:
 %   This code is released under the MIT License.
 %   See LICENSE file in the repository for details.
