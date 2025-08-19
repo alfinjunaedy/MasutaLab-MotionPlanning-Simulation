@@ -41,7 +41,10 @@ This work is licensed under the MIT license and is provided for academic purpose
 
 ## Citation
 If you use this code in your research, please cite:  
-```A. Junaedy, H. Masuta, Y. Fuse, K. Sawai, K. Koyanagi, A. Almassri, and F. Li, "Onboard modular control and planning for autonomous indoor UAV navigation on resource-constrained CPUs," J. Robot. Mechatron., Vol.37, No.6, [in pres, Dec 2025]```. [Doi:](https://www.fujipress.jp/jrm/)
+```
+A. Junaedy, H. Masuta, Y. Fuse, K. Sawai, K. Koyanagi, A. Almassri, and F. Li, "Onboard modular control and planning for autonomous indoor UAV navigation on resource-constrained CPUs," J. Robot. Mechatron., Vol.37, No.6, [in pres, Dec 2025]
+```. [Doi:](https://www.fujipress.jp/jrm/)
+
 
 
 
