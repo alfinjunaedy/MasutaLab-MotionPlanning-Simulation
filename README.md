@@ -32,9 +32,19 @@ Below are examples the simulation in action (different scenario from the paper):
   Map 2
 </p>
 
-![](./imgs/map2.gif)
+![](./imgs/robot.gif)
 
 The algorithm is the same as in the paper, but applied to different maps with new obstacles.
+
+# Hover Performance Test
+To complement the motion planning demo, the real-world hover test demonstrates the stability of the onboard controller under small disturbances.
+The quadrotor maintains its position with minimal drift despite airflow and vibration disturbances, validating the effectiveness of the proposed modular full-state feedback controller.
+
+<p align="center">
+  Hover test
+</p>
+
+![](./imgs/map1.gif)
 
 ## License
 This work is licensed under the MIT license and is provided for academic purpose. See [LICENSE](LICENSE) for details.
@@ -45,6 +55,7 @@ If you use this code in your research, please cite:
 A. Junaedy, H. Masuta, Y. Fuse, K. Sawai, K. Koyanagi, A. Almassri, and F. Li, "Onboard modular control and planning for autonomous indoor UAV navigation on resource-constrained CPUs," J. Robot. Mechatron., Vol.37, No.6, [in press, Dec 2025].
 ```
 [Doi:](https://www.fujipress.jp/jrm/)
+
 
 
 
