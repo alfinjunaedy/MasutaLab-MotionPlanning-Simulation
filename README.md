@@ -32,7 +32,7 @@ Below are examples the simulation in action (different scenario from the paper):
   Map 2
 </p>
 
-![](./imgs/robot.gif)
+![](./imgs/map2.gif)
 
 The algorithm is the same as in the paper, but applied to different maps with new obstacles.
 
@@ -44,7 +44,7 @@ The quadrotor maintains its position with minimal drift despite airflow and vibr
   Hover test
 </p>
 
-![](./imgs/map1.gif)
+![](./imgs/robot.gif)
 
 ## License
 This work is licensed under the MIT license and is provided for academic purpose. See [LICENSE](LICENSE) for details.
@@ -55,6 +55,7 @@ If you use this code in your research, please cite:
 A. Junaedy, H. Masuta, Y. Fuse, K. Sawai, K. Koyanagi, A. Almassri, and F. Li, "Onboard modular control and planning for autonomous indoor UAV navigation on resource-constrained CPUs," J. Robot. Mechatron., Vol.37, No.6, [in press, Dec 2025].
 ```
 [Doi:](https://www.fujipress.jp/jrm/)
+
 
 
 
